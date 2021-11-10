@@ -29,7 +29,7 @@ Once all vouchers have been claimed, a text message will be dispatched.
 Not for 30 series GPUs. As high-demand products typically sell out immediately after opening, stock is not updated on the site unless they remain unsold.
 
 2) **Is X product still in stock?**
-Keep your eyes on the <#810922122397483009 channel, but do not ask your questions there. The channel is for stock updates only.
+Keep your eyes on the <#810922122397483009> channel, but do not ask your questions there. The channel is for stock updates only.
 
 3) **What time should I arrive at the store? Should I camp out overnight?**
 When you arrive matters not, as long as it is while the waitlist is open. While camping was previously a common occurrence at this store, the lottery system has rendered the practice obsolete.
@@ -81,7 +81,7 @@ All 3070Ti and 3080Ti cards are LHR, and all 3060s are limited (originally drive
 
 • Our amazing community! Have a question not listed above? Don't be shy - ask away!
 
-• Don't forget to post your wins in <#857300929089896468
+• Don't forget to post your wins in <#857300929089896468>
 
 
 
