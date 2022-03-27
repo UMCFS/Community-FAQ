@@ -1,31 +1,24 @@
 ```- General Information & Guidelines - ```
-1) Regular Keystone shipments occur on **Wednesday **and **Friday**, though they are not guaranteed to carry GPUs. Delays and reschedulings do occasionally happen, in which case a shipment may come in on another day. Midday shipments via FedEx/UPS come in at random, with no predictability or regularity.
+1) Regular Keystone shipments occur on **Wednesday** and **Friday**, though they are not guaranteed to carry GPUs. Delays and reschedulings do occasionally happen, in which case a shipment may come in on another day. Midday shipments via FedEx/UPS come in at random, with no predictability or regularity.
 
 2) Shipments vary wildly in size. One might carry 10 cards, another 100, and another none. There is not an observable pattern.
 
-3) Shipment **manifests ** are posted to the window on shipment days, and specify which cards will be in stock, along with the total quantity of 30-series cards. They do not disclose specific SKUs, but they do denote AIBs as well as which are LHR. *Example manifest: https://imgur.com/a/m2y7lKN*
+3) Shipment **manifests** are posted to the window on shipment days, and specify which cards will be in stock, along with the total quantity of 30-series cards. They do not disclose specific SKUs, but they do denote AIBs as well as which are LHR. *Example manifest: https://imgur.com/a/m2y7lKN*
 
-4) This store **does not allow any lines**, and employs the **lottery **system for Nvidia 30-series GPUs:
-At **9:00 AM** on shipment days, the waitlist **opens**. To join it, scan the **QR code** on the manifest and follow the instructions on your phone. You must enter your name as it is printed on your ID.
-At **9:30 AM**, the waitlist **closes**.
-At **10:00 AM**, random staggered selections begin. While waiting, please remain in your vehicle or outside. **Do not crowd the entrance or wait inside the store.**
-If you are selected, you will receive a text message indicating as such. Once you receive your text message, head directly to the entrance with ID in-hand to retrieve your **voucher**. If you do not arrive within **10 minutes**, your voucher will be **forfeited**. This is a hard limit.
-Once all vouchers have been claimed, a text message will be dispatched.
+4) When checking out, you must present a valid **state-issued drivers license/ID card**. Passports and photos of identification are not accepted. Student IDs are not accepted, unless you bring 2 forms of proof of address.
 
-5) When retrieving your voucher and when checking out, you must present a valid **state-issued drivers license/ID card**. Passports and photos of identification are not accepted. Student IDs are not accepted, unless you bring 2 forms of proof of address.
+5) There's a strict **1 card per household per 30 days** policy.  Do not attempt to subvert this rule, as doing so is unfair to others and would likely result in a ban from the store.
 
-6) There's a strict **1 card per household per 30 days** policy.  Do not attempt to subvert this rule, as doing so is unfair to others and would likely result in a ban from the store.
+6) Please do not pester or harass store associates about availability. It is in their best interest to sell GPUs to gamers, and they have no incentive to lie to you. Treat them with respect, and they'll be sure to reciprocate.
 
-7) Please do not pester or harass store associates about availability. It is in their best interest to sell GPUs to gamers, and they have no incentive to lie to you. Treat them with respect, and they'll be sure to reciprocate.
+7) Pricing is as reflected on the https://microcenter.com/ website.
 
-8) Pricing is as reflected on the https://microcenter.com/ website.
+8) Do *not* post the QR code or corresponding link. Doing so will result in moderative action! For stock updates, please redact the QR code before posting. Thank you.
 
-9) Do *not* post the QR code or corresponding link. Doing so will result in moderative action! For stock updates, please redact the QR code before posting. Thank you.
-
-10) Please review the FAQs below, as well as the pinned messages in a given channel before posting. :checkthepinsaggressive:
+9) Please review the FAQs below, as well as the pinned messages in a given channel before posting. :checkthepinsaggressive:
   <--- POST BREAK --->
 ```- FAQs - ```
-1)** Should I rely on the website for stock info?**
+1) **Should I rely on the website for stock info?**
 Not for 30 series GPUs. As high-demand products typically sell out immediately after opening, stock is not updated on the site unless they remain unsold.
 
 2) **Is X product still in stock?**
@@ -111,4 +104,4 @@ https://community.microcenter.com/discussion/8756/random-selection-process-and-f
 Why Did They Remove The Raffle?
 - A decent amount of stores seem to be having an "abundant stock" of Nvidia GPUs (-Chicago Microcenter Representative)
 
-Please be respectful to the Microcenter Associates as you shop for your desired Graphics Card 
+Please be respectful to the Microcenter Associates as you shop for your desired Graphics Card.
